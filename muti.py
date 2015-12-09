@@ -46,3 +46,4 @@ for x,y in zip(g,h):
 leg = ax2.legend(loc='upper right')
 plt.show()
 #pim test
+print("wtf")
